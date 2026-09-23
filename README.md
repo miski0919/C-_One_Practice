@@ -1,10 +1,11 @@
 # C# Programming I
 ## Course Information
 
+
+
 | Item | Details |
 | :--- | :--- |
 | **Course Title** | C# Programming I |
-| **Course Code** | CA221 |
 | **Department** | Computer Application |
 | **Faculty** | Computer & Information Technology |
 | **University** | Jamhuriya University of Science & Technology |
@@ -64,16 +65,7 @@ After completing the course, students should be able to:
 * Lecture 07 - Arrays and Lists
 * Lecture 08 - ADO.NET
 * Lecture 09 - Desktop Application Development
-### Labs
-* Lab 01
-* Lab 02
-* Lab 03
-* Lab 04
-* Lab 05
-### Assignments
-* Assignment 01
-* Assignment 02
-* Assignment 03
+
 ---
 ## Assessment
 
